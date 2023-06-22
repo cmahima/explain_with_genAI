@@ -1,0 +1,10 @@
+shap
+xgboost
+openai
+langchain
+python-dotenv
+numpy==1.22.4
+matplotlib
+scikit-learn
+streamlit
+streamlit_chat
